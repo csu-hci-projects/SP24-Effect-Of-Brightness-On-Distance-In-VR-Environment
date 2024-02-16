@@ -1,0 +1,1 @@
+# SP24-Effect-Of-Brightness-On-Distance-In-VR-Environment
