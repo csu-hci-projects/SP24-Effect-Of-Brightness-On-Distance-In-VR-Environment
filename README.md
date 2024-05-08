@@ -48,5 +48,6 @@ How to run app:
  	3. You can see the example cube by pressing the number key and then pressing the right arrow. The example cube is 1m and 2m away, and the environment is predetermined by the number key.
 	
  	4. Keep pushing the arrow to the right to see the cubes that require participants to answer the distance. The distances of the cubes are set at random.
-	5. If you want to see the data that the participants answered, open the Datasheet in the 'CS464 Data.xlsx' file.
+	
+ 	5. If you want to see the data that the participants answered, open the Datasheet in the 'CS464 Data.xlsx' file.
 	- 'CS464 Data.xlsx' file is at Final/Miscellaneous
