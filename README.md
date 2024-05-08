@@ -1,7 +1,10 @@
 ## SP24-Effect-Of-Brightness-On-Distance-In-VR-Environment
 Demo+Code Video: https://youtu.be/I-afDK6VfoE
+
 Short Video: https://youtu.be/bejm8rS-QjQ
+
 GitHub: https://github.com/csu-hci-projects/SP24-Effect-Of-Brightness-On-Distance-In-VR-Environment.git
+
 How to install:
 	1. Prepare 'Meta Quest2'
 	2. Prepare 'Meta developer account'
